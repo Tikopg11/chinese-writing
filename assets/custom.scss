@@ -7,3 +7,47 @@
   border: 2px solid gray;
   padding: 0 3px 0 3px;
 }
+
+body {
+  background-image:url(https://wallpaperaccess.com/full/4742980.jpg);
+  color: white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+footer .wrapper{
+  padding-top: 30px;
+}
+
+.site-footer{
+  padding: 0;
+}
+
+.page-content{
+  padding: 0;
+}
+
+.page-content .wrapper{
+  padding-top: 30px;
+}
+
+.wrapper {
+  opacity: 0.8;
+  background-color: #00000066;
+}
+
+.site-title, .site-title:visited {
+  color: white;
+}
+
+a {
+  color: #447777 !important;
+}
+
+a:hover {
+  color: aqua !important;
+}
+
+a:active {
+  color: pink !important;
+}
